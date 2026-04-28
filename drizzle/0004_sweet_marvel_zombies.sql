@@ -1,0 +1,1 @@
+ALTER TABLE `bidParameters` ADD CONSTRAINT `bidParameters_userId_unique` UNIQUE(`userId`);
